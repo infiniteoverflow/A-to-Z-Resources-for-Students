@@ -21,6 +21,12 @@
 + [Android Fundamentals by Google](https://www.udacity.com/course/new-android-fundamentals--ud851) _[Free]_
 + [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) _[Paid]_
 + [Android Nanodegree by Google](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) _[Paid]_
++ [Developing Android Apps](https://www.udacity.com/course/developing-android-apps--ud853) _[Free]_
++ [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855) _[Free]_
++ [Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867) _[Free]_
++ [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862) _[Free]_
++ [Android Wear Development](https://www.udacity.com/course/android-wear-development--ud875A) _[Free]_
+
 
 
 ## Certificate
